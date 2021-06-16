@@ -16,7 +16,7 @@ Desarrolle un sitio web con las siguientes características:
 - Al menos un mapa Leaflet con:  
 a. (5%) Al menos dos capas base.  
 b. (5%) Un control de capas.  
-c. (10%) Al menos una capa WMS.
+c. (10%) Al menos una capa WMS.  
 d. (10%) Al menos una capa raster, con un control de opacidad.  
 e. (20%) Al menos una capa vectorial, ya sea de coropletas, agrupada o de calor.  
 
