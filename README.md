@@ -2,7 +2,7 @@
 ## Proyecto final
 
 ### Fecha de entrega y entregables
-La fecha y hora límite para la entrega es **???**
+La fecha límite para la entrega es **miércoles 7 de julio**.
 
 Debe enviarle al profesor por correo electrónico la dirección de la página web resultante en GitHub Pages. Se puede trabajar en equipos de hasta tres personas.
 
