@@ -12,7 +12,7 @@ Desarrolle un sitio web con las siguientes características:
 - (10%) Código HTML, CSS y JavaScript en archivos separados.  
 - (20%) Al menos tres páginas que se comuniquen con un esquema de navegación (ej. una barra de navegación).  
 - (10%) Imágenes relacionadas con la temática (fotografías, diagramas, etc.).  
-- (10%) Estilos CSS aplicados al texto y la configuración (tipo de letra, tamaña de letra, márgenes, etc.).
+- (10%) Estilos CSS aplicados al texto y la configuración (tipo de letra, tamaño de letra, márgenes, etc.).
 - Al menos un mapa Leaflet con:  
 a. (5%) Al menos dos capas base.  
 b. (5%) Un control de capas.  
